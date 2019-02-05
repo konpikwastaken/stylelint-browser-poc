@@ -3,6 +3,10 @@ This is a quick proof of concept to get stylelint working in the browser.  It is
 
 Loosely based on https://github.com/m-allanson/stylelint-browser-demo but updated to latest webpack and [this thread](https://github.com/stylelint/stylelint/issues/3935).
 
+# Live Preview
+Live preview can be viewed at 
+https://konpikwastaken.github.io/stylelint-browser-poc/
+
 # Getting started
 - Clone this repo
 - Run `yarn`
